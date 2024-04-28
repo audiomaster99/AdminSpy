@@ -1,0 +1,8 @@
+{
+"startline.tag": "{lime}»",
+"team.terrorist": "{LightYellow}[T]",
+"team.counterterrorist": "{LightBlue}[CT]",
+"team.spec": "{LightPurple}[SPEC]",
+"player.isdead": "{grey}[DEAD]",
+"message.formatted": "{0} {1} {2} {3}"
+}
